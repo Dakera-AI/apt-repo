@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 21 May 2026 13:33:31 +0000
+Description: Dakera AI CLI packages
+Label: Dakera
+Origin: Dakera AI
+Suite: stable
+MD5Sum:
+ 626884516ac7b60c5332894cdec6a54f              175 Release
+ ff8988161f2c1b76ee66e7bc86345ffe              681 main/binary-amd64/Packages
+ 62370c4bc221c32b4fc18e9e39a1d6c4              483 main/binary-amd64/Packages.gz
+ a81498631ea833c827e6b43fbb6893fe              556 main/binary-amd64/Packages.xz
+SHA1:
+ dbfb05acda46e7fc2503595727bceac3bd10f994              175 Release
+ 69e79b0fbedec135af8b9f68aa8fa6f91b8ca3f0              681 main/binary-amd64/Packages
+ a6b8489b9447d628a06ea45f6060325170df5167              483 main/binary-amd64/Packages.gz
+ 1559f806b8d511938f1f2e788d80ccd445266d62              556 main/binary-amd64/Packages.xz
+SHA256:
+ 8ccd29d80f58c02bf0c4c5ed971f7615bfc8c1599e7633db2c036ca1e51ebc75              175 Release
+ 17b7db5f23dbaff38edc1c87bf41fcbb5f221eecf5e037445b436a07712e7819              681 main/binary-amd64/Packages
+ ca85fec3c41bf57cbb582771030588548395dfb3508855060e955ed5811fd236              483 main/binary-amd64/Packages.gz
+ 761f58b11d2aab4d6173affe90262b0d0ac7c57b0611a3ec2a9b86e9f90a8190              556 main/binary-amd64/Packages.xz
+SHA512:
+ 65b7e456a8a7c38b11b1e38e872cfed6b496945962bfe8843cdd33d505eb9920647e119f1c4287b78dc9740b6b51d7a68e34ca86877d837997cdccf07f71df9b              175 Release
+ f21b73bc55c469de11ebc049a11becb2beb3a6b86485351bdac79e08c76bc6264a452aae791745825152e0e2ccd67faf614f6be160ffdef0e7b5c31fa60e4e4a              681 main/binary-amd64/Packages
+ b7eebd63b34af30c8d1794c762942db4db0d153ab6901131975be18b86a0b38fcb81ecc7742eee1acae3d807d34ed072c4362172edb2d4d41e91f6dd011be864              483 main/binary-amd64/Packages.gz
+ 2dbd15d51ab85a0eec30e7b9999782503eedc75fde317f3b6e1a18170d16bd11931e1a897f8c09b39dbe2f8073c9a4963be5ccc18cbb66ed618e9cd74347c28b              556 main/binary-amd64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQJEBAEBCgAuFiEEG2ciPZpJVs7cm1vJq35jJ5npHCUFAmoPCasQHGhlbGxvQGRh
+a2VyYS5haQAKCRCrfmMnmekcJcZoD/9DkKSB9O9mlcbJwK3Idu4vVjMXoWmnLnlI
++n9NDnzYlTTWjOnH1n7QlUnOJkhLKY0yhI/CX0ym8Xgi7MbwQjaOwGdVLOUJZfbj
+nysV9oc0WMhtf7qsJQU7hy3OWjirnmUZ/+6AqFHc9ED//jmdwrQ3DdYjmGKNOXGO
+MG/7Vv1tkNSe9hH6n+2chBWyLp3WkL2TgAotkVtI9gP965sb+JQi/mwsBLVpWLN6
+abUweOT5LAQuDhDYAcTtVuvLDAyRoW+q4MOq+o7RBABS9WVOqHx78T3Rq1Btw10s
+jz5Nl9I8w7fwRiOpMMO+rkvUk3raRITIIgmwcE4IPH0SZp6D652X8fMBa6qrY/E5
+uvfZjN2puJhS11VXUUMgE6HvK0npB5YkpgHFbUr5JJ3s07wQH2hNJmu+4ZFHBtzz
+nuArefNn0bESGRp7wjF2rA1OpqM8qhO2dOjETQNHjSjJF4w7glWrjrn5ss63EzMj
+xN5LtDrk0Aofi7EU70Bp30yUDa+yZV3o0JX0xCQZLeTsBOblPHBSxMd75ZVG4OfI
+Ubyijz1Xzl3Vy3qRXS/oBfawZ3oPX4wJRHCeFhFW8xNAaIqMwJkABXO4lf4Klb86
+H1UYjhVLKUPiS3kdauYEWp0NILSpUsk3S3NmNKLDvisz6vuxfKhkyBHjJQ+nMsKF
+f05/tNyxqQ==
+=IYW+
+-----END PGP SIGNATURE-----

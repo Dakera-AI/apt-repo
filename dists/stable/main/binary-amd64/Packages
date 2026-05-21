@@ -1,0 +1,19 @@
+Package: dakera-cli
+Version: 0.6.0-1
+Architecture: amd64
+Maintainer: Dakera AI <hello@dakera.ai>
+Installed-Size: 5381
+Depends: libc6 (>= 2.34)
+Filename: pool/main/d/dk/dakera-cli_0.6.0-1_amd64.deb
+Size: 1506856
+MD5sum: 9900a498127d8d3213906fa98de4a522
+SHA1: 057721cbbbd958d1bcda56ab458d2b0d393f1865
+SHA256: 81a380464b3953e401f87cb02081e37000059f8db4458d34fd2aec3f90871e87
+Section: utility
+Priority: optional
+Homepage: https://dakera.ai
+Description: Command-line interface for Dakera AI Agent Memory Platform
+ Dakera CLI for querying and managing AI agent memory. Connect to Dakera server
+ instances to manage agent memories, sessions, and knowledge graphs from the
+ command line.
+
