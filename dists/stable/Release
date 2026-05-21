@@ -1,28 +1,28 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 21 May 2026 13:56:55 +0000
+Date: Thu, 21 May 2026 14:24:03 +0000
 Description: Dakera AI CLI packages
 Label: Dakera
 Origin: Dakera AI
 Suite: stable
 MD5Sum:
- 9543687422c88e73a38215b871d31cd9              175 Release
- ff8988161f2c1b76ee66e7bc86345ffe              681 main/binary-amd64/Packages
- b626a1fd5f31099bcfb107591270db41              483 main/binary-amd64/Packages.gz
- a81498631ea833c827e6b43fbb6893fe              556 main/binary-amd64/Packages.xz
+ d24adec125f7a82cbf7dea6083dc231d              175 Release
+ 32663a217c73a876550299efd30cd33f             1346 main/binary-amd64/Packages
+ f62cc58b2b5147f84a6b1bfda8cd74b1              601 main/binary-amd64/Packages.gz
+ c0f14e1612447f351f90004b454e70d6              668 main/binary-amd64/Packages.xz
 SHA1:
- 633d206c8c8da102bd9ee3f6b254b67725846df9              175 Release
- 69e79b0fbedec135af8b9f68aa8fa6f91b8ca3f0              681 main/binary-amd64/Packages
- e127ecd78918b0e114e7addcd6327cb0bbe226a6              483 main/binary-amd64/Packages.gz
- 1559f806b8d511938f1f2e788d80ccd445266d62              556 main/binary-amd64/Packages.xz
+ a4a0463630634d634e5bb94b8c8dbd46826edaf3              175 Release
+ 8b19a04ff21a27deebf6489fa5b855b423626b0b             1346 main/binary-amd64/Packages
+ 7e2a07b8a045a7e791c5cdfed8bcdc6a5023ae82              601 main/binary-amd64/Packages.gz
+ 2dd2c988dd2afd9581420c5eb4956ff6317ea3ac              668 main/binary-amd64/Packages.xz
 SHA256:
- 0fcb267766dd76f518ea31c3e1b80fd83b7602125b8d7d4ae9e629e3c12ccbc1              175 Release
- 17b7db5f23dbaff38edc1c87bf41fcbb5f221eecf5e037445b436a07712e7819              681 main/binary-amd64/Packages
- 70a726a612e424387d942bfddf4ace1aafed9eacaf680e0d3e1ad9b3a2cb989c              483 main/binary-amd64/Packages.gz
- 761f58b11d2aab4d6173affe90262b0d0ac7c57b0611a3ec2a9b86e9f90a8190              556 main/binary-amd64/Packages.xz
+ 140e0889e25ea32265e3bd624de80c33da93fc39ed569bad6bde094bca3a2a38              175 Release
+ 62f7fdc2860f5f7f033ffb19aa730f90bc3fbfad665516e0a9f62448e3a9ae60             1346 main/binary-amd64/Packages
+ ca1f038b94e930f23e3776800359ebb50c81fc439382b235a1b7ffa09e81b177              601 main/binary-amd64/Packages.gz
+ b3a21db1d1774a79331373e57ea67bf8e9d7d117f6ee35132923ca3b700b35b3              668 main/binary-amd64/Packages.xz
 SHA512:
- 655f27913e8befd13a1f69738a6f6943d09d8a882674ed6e43fdf3bc355874ad11242e87d0c2e831d549da7810f21962a38ebfa056fa6882ce553385af401c83              175 Release
- f21b73bc55c469de11ebc049a11becb2beb3a6b86485351bdac79e08c76bc6264a452aae791745825152e0e2ccd67faf614f6be160ffdef0e7b5c31fa60e4e4a              681 main/binary-amd64/Packages
- 0b90a4f83e0cee13579ffce5c8264b1bcd7b6da3a56084105e6c87412b6732528b1918c522693953fc3269faaec19ccc6534e70a364efa8f7b46886d44ce64eb              483 main/binary-amd64/Packages.gz
- 2dbd15d51ab85a0eec30e7b9999782503eedc75fde317f3b6e1a18170d16bd11931e1a897f8c09b39dbe2f8073c9a4963be5ccc18cbb66ed618e9cd74347c28b              556 main/binary-amd64/Packages.xz
+ e13bbfc76e7e8766c2da29b779f7f231533c6158107ee749f1f74a7918a0283d7bc1aabd0a91407bffb45497ee72846f6b9392489ef0f45ad4752ed8b5d9196b              175 Release
+ e96dc95a8c5dbe98a230a598d6fbeebba11a99b08117591beff8a3058d4752e938f4913aaa7654abf0f0e7993f9b6637092d2d5c8bded9a7795355d0052a7aa8             1346 main/binary-amd64/Packages
+ f769ac1ecd5740e4794d57957f008c1737706987f3f3580e8bb6a96cfb4331afb5bef8ac9e4c64d89dbe7cc16876ca9420207f1b615ef1b1ccf840ad989770ba              601 main/binary-amd64/Packages.gz
+ e4cf5babe0ea1d398b446557d9b817de7f58a0cceda546facbd90935f33a0ce97979dfed00b9c6fa1348409b2117e7d1e31aed1c4e08f61447a2c406e18a7f40              668 main/binary-amd64/Packages.xz
