@@ -55,3 +55,22 @@ Description: Command-line interface for Dakera AI Agent Memory Platform
  instances to manage agent memories, sessions, and knowledge graphs from the
  command line.
 
+Package: dk
+Version: 0.7.1-1
+Architecture: amd64
+Maintainer: Dakera AI <hello@dakera.ai>
+Installed-Size: 9254
+Depends: libc6 (>= 2.34)
+Filename: pool/main/d/dk/dk_0.7.1-1_amd64.deb
+Size: 2540828
+MD5sum: 76eb1b20c127f60236e236b466dc3166
+SHA1: ec0c4cc83ddaf0ce5bcc2c38dba1047a566b8ed3
+SHA256: d06d456d29cf8bcd805fc67424ba410d985863845c258ac4a02f5eabed3e79cb
+Section: utility
+Priority: optional
+Homepage: https://dakera.ai
+Description: Command-line interface for Dakera AI Agent Memory Platform
+ Dakera CLI for querying and managing AI agent memory. Connect to Dakera server
+ instances to manage agent memories, sessions, and knowledge graphs from the
+ command line.
+
