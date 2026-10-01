@@ -18,10 +18,19 @@ sudo apt update && sudo apt install dk
 
 ## Packages
 
-| Package | Description |
-|---------|-------------|
-| `dk` | Dakera CLI — manage AI agent memory from the command line |
+| Package | Description | Architecture |
+|---------|-------------|--------------|
+| `dk` | Dakera CLI: manage AI agent memory from the command line | amd64 only |
+
+Only the `dk` CLI is packaged here. The Dakera server is not: it ships as the container image `ghcr.io/dakera-ai/dakera` (see [dakera-deploy](https://github.com/dakera-ai/dakera-deploy)). `dakera-mcp` is distributed through the [Homebrew tap](https://github.com/dakera-ai/homebrew-tap) and its own releases.
+
+## Server compatibility
+
+| `dk` version | Dakera server |
+|--------------|---------------|
+| 0.8.0 (latest in this repository) | v0.12.0 and v0.11.108; the v0.12 commands (`dk capabilities`, `dk attachment`, `--lang`, ...) need v0.12.0, see the [dk 0.8.0 release](https://github.com/dakera-ai/dakera-cli/releases/tag/v0.8.0) |
+| 0.7.x | v0.11.108 |
 
 ## Updates
 
-Packages are automatically published when a new version of dakera-cli is released.
+Packages are published automatically by the `Publish Linux Packages` workflow of [dakera-cli](https://github.com/dakera-ai/dakera-cli) when a release tag is pushed: it builds the package, adds it to this repository, regenerates and signs the repository metadata and commits. Nothing here is edited by hand.
